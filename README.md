@@ -12,7 +12,7 @@ npm create astro@latest -- --template portfolio
 
 One-click deploy this starter to Tencent EdgeOne Pages (installs, builds, and serves `dist/` automatically).
 
-[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fportfolio&output-directory=dist&build-command=npm+run+build&install-command=npm+install&origin_from=childtom)
+[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fbeauty-portfolio&output-directory=dist&build-command=npm+run+build&install-command=npm+install&origin_from=childtom)
 
 ## Preview
 
